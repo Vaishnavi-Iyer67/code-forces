@@ -1,3 +1,5 @@
+// 231 - A 
+// rating 800 
 import java.util.Scanner;
 public class Main {
 
