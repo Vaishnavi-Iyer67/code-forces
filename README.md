@@ -1,2 +1,1 @@
-code forces 
-( sollution pattren wise ) 
+WARNING :  The repo is DANGEROUS
